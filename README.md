@@ -1,10 +1,17 @@
 # Data Visualization with Python
-In this workshop, you’ll get  hands-on experience and learn how to visualize 100,000+ records of data using Python, Pandas, and Matplotlib. RSVP with the link in our bio for more info!
+Hands-on workshop and learn how to visualize 100,000+ records of data using Python, Pandas, and Matplotlib. 
 
-# Developement Environment Setup
+# Development Environment Setup
 >Intalll the following
 - Python3
 - Git
 - Anaconda
 - Matplotlib
 - Python IDE
+
+# Dataset
+- Kaggle's Novel Corona Virus 2019 Dataset https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+- DSC UTRGV Data Cleaning Workshop https://github.com/dsc-utrgv/data-cleaning-with-pandas-fall-2020/blob/main/covid_19_data.csv
+
+# Data Cleaning 
+- Refer DSC UTRGV Data Cleaning Workshop https://github.com/dsc-utrgv/data-cleaning-with-pandas-fall-2020
