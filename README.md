@@ -2,7 +2,7 @@
 Hands-on workshop and learn how to visualize 100,000+ records of data using Python, Pandas, and Matplotlib. 
 
 # Development Environment Setup
->Intalll the following
+>Install the following
 - Python3
 - Git
 - Anaconda
